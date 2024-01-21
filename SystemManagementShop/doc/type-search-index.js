@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ApManagerStoc","l":"Articol"},{"p":"ApManagerStoc","l":"Main"},{"p":"ApManagerStoc","l":"ManagerStoc"}];updateSearchResults();
